@@ -1,0 +1,1 @@
+createSprite(200,200)
